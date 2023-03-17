@@ -1,56 +1,42 @@
 ﻿
 
-**<INVASION**
-
-**DE CIRSES >**
+**<INVASION DE CIRSES >**
 
 **MANUEL DE L'UTILISATEUR**
 
-Un outil logiciel qui simule l'invasion de cirses sur une parcelle. L'outil reproduit la
+Un outil logiciel qui simule l'invasion de cirses sur une parcelle. L'outil reproduit la 
 
 reproduction de cette plante à travers ses deux types de dispersion en fonction de la
 
 saison, ainsi que l'utilisation de drones pour la détection et le contrôle.
 
-**QUE PUIS-JE FAIRE AVEC CET OUTIL?**
+**QUE PUIS-JE FAIRE AVEC CET OUTIL ?**
 
-**Simuler l'invasion de cirses sur une parcelle de taille personnalisable. La simulation prend**
+Simuler l'invasion de cirses sur une parcelle de taille personnalisable. La simulation prend en compte les facteurs suivants :
 
-**en compte les facteurs suivants :**
+Les deux types de reproduction des plantes, végétative et aérienne.
 
-**Les deux types de reproduction des plantes, végétative et aérienne.**
+Les deux cycles de reproduction de la plante, l'un plus actif en été et au printemps, l'autre nettement moins actif en hiver et en automne.
 
-**Les deux cycles de reproduction de la plante, l'un plus actif en été et au printemps,**
-
-**l'autre nettement moins actif en hiver et en automne.**
-
-**Le contrôle et la détection de ces plantes à l'aide de deux drones déployés**
-
-**aléatoirement.**
+Le contrôle et la détection de ces plantes à l'aide de deux drones déployés aléatoirement.
 
 **Vous pouvez donc obtenir :**
 
-**Visualisez une simulation graphique animée, avec des compteurs en temps réel pour**
+Visualisez une simulation graphique animée, avec des compteurs en temps réel pour comprendre le phénomène.
 
-**comprendre le phénomène.**
-
-**Faire plusieurs simulations d'une invasion pour obtenir des statistiques descriptives,**
-
-**connaître l'efficacité du traitement par drone et analyser la variabilité.**
+Faire plusieurs simulations d'une invasion pour obtenir des statistiques descriptives, connaître l'efficacité du traitement par drone et analyser la variabilité.
 
 **COMMENT UTILISER LE LOGICIEL ?**
 
-**1. Sélectionnez la taille de la parcelle.**
+**1.** Sélectionnez la taille de la parcelle.
 
-**2. Sélectionnez la date de début de la simulation.**
+**2.** Sélectionnez la date de début de la simulation.
 
-**3.Choisissez d'utiliser ou non des drones.**
+**3.** Choisissez d'utiliser ou non des drones.
 
-**4.Choisissez la vitesse des drones (plus la vitesse est élevée, plus la précision de**
+**4.** Choisissez la vitesse des drones (plus la vitesse est élevée, plus la précision de détection est faible).
 
-**détection est faible).**
-
-**5.Choisissez si vous voulez faire une simulation graphique ou numérique.**
+**5.** Choisissez si vous voulez faire une simulation graphique ou numérique.
 
 **UTILISER LES RÉSULTATS POUR UNE ANALYSE PLUS APPROFONDIE**
 
