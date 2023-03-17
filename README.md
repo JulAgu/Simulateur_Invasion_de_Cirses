@@ -38,7 +38,7 @@ Faire plusieurs simulations d'une invasion pour obtenir des statistiques descrip
 
 **5.** Choisissez si vous voulez faire une simulation graphique ou numérique.
 
-**UTILISER LES RÉSULTATS POUR UNE ANALYSE PLUS APPROFONDIE**
+**UTILISEZ LES RÉSULTATS POUR UNE ANALYSE PLUS APPROFONDIE**
 
 **<MERCI>**
 
