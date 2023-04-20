@@ -4,7 +4,7 @@
 
 **MANUEL DE L'UTILISATEUR**
 
-Un outil logiciel qui simule l'invasion de cirses sur une parcelle. L'outil reproduit la 
+Un outil logiciel qui simule l'invasion de cirses sur une parcelle. L'outil simule la 
 
 reproduction de cette plante à travers ses deux types de dispersion en fonction de la
 
